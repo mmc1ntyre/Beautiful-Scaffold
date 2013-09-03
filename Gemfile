@@ -14,7 +14,7 @@ gem 'RedCloth'
 # BBCode
 gem 'bb-ruby'
 # Markdown
-gem 'bluecloth'
+gem 'kramdown'
 # Markdown
 gem 'rdiscount'
 # Clear html tag
